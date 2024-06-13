@@ -2,7 +2,7 @@
 
 ![Header](https://github.com/sooooohyeon/my-repo/raw/main/assets/banner.png)
 
-안녕하세요! 저는 한국에서 온 개발자 [sooooohyeon]입니다.
+안녕하세요! sohyeon입니다!
 
 - 🔭 현재 파이썬, Django, SQL을 배우고 있습니다.
 - 🌱 특히 파이썬과 Django, React, SQL에 관심이 많습니다.
