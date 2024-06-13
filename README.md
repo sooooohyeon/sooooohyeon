@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Header](https://github.com/sooooohyeon/my-repo/raw/main/assets/banner.png)
+![Header](https://github.com/sooooohyeon/sooooohyeon/raw/main/assets/banner.png)
 
 안녕하세요! sohyeon입니다!
 
