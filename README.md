@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-![Header](https://github.com/sooooohyeon/sooooohyeon/raw/main/assets/banner.png)
+안녕하세요! sohyeon입니다.
 
-안녕하세요! sohyeon입니다!
-
-- 🔭 현재 파이썬, 머신러닝, SQL을 배우고 있습니다.
-- 🌱 특히 파이썬에 관심이 많습니다.
-- 😄 React
+- 🔭 
+- 🌱 
+- 😄 
 - 📫 연락처: [gkrry963@gmail.com](mailto:gkrry963@gmail.com)
 
 ### 🛠️ Languages and Tools
